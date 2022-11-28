@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Bungee+Shade&family=DM+Serif+Display&family=Epilogue&family=Josefin+Sans&family=Karla&family=Passion+One&family=Roboto&family=Rubik&family=Source+Sans+Pro&display=swap');
+
+.titleResto{
+    display: flex;
+    justify-content: center;
+    font-family: 'Josefin Sans';
+    font-weight: bold;
+    margin-top: 20px;
+    color: rgb(170, 6, 6);
+}
+.restoDetail{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+.btnMenu{
+    width: 400px;
+    height: 10px;
+    margin-left: 50px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
